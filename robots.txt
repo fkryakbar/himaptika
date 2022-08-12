@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Crawl-delay: 120
+
+Sitemap: https://himaptika-fkip-ulm.epizy.com/sitemap-blog.xml
