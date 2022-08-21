@@ -207,6 +207,9 @@ $data_sponsor = curl($urlsponsor);
                 <a type="button" href="https://drive.google.com/file/d/1inJVW10MOCLvK3Cp7DN7R0_yw0RHupKD/view?usp=drivesdk" class="list-group-item list-group-item-action" target="_blank">
                     <i class="bi bi-dot"></i>Kumpulan Soal-Soal Gebyar Matematika 2020
                 </a>
+                <a type="button" href="https://drive.google.com/drive/folders/1NivzbAGFkmAxpiSlSjz_zU0Mh3n_ac0u?usp=sharing" class="list-group-item list-group-item-action" target="_blank">
+                    <i class="bi bi-dot"></i>Surat Rekomendasi
+                </a>
             </ul>
         </div>
         <br>
